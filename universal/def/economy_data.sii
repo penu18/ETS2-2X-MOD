@@ -174,7 +174,6 @@ economy_data : economy.data.storage
 	exp_damaged_cargo_factor: 			0.04			# -4% of total XP per 1% of cargo damage											NOT EDITED
 # ----------------------------------------------------------------------------------------------------------------------------------------------------------
 
-
 	adr_info_icon[]:	"1|/material/ui/icon/adr_1.mat"
 
 	adr_info_icon[]:	"2|/material/ui/icon/adr_21.mat"
